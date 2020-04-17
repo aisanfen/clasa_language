@@ -1,2 +1,8 @@
 *.idea
 /venv/
+/font_ttf/
+/picture_data/
+/picture_dateset/
+/test_image/
+*.pkl
+*.txt
